@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background: linear-gradient(135deg, #f5f5f5, #eb6992);
+}
+
+footer {
+    background-color: #f8f9fa;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.home {
+    background-image: url(bg.jpg); /* Ganti dengan nama file gambar Anda */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #000000; /* Mengubah warna teks menjadi putih agar kontras dengan latar belakang */
+}
+
+h1, h2, h3 {
+    color: #ffffff; /* Mengubah warna judul menjadi putih */
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
